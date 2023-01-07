@@ -89,4 +89,4 @@ dessert = ["cake","ice cream"]
 
 food = [drinks,dinner,dessert]
 
-print(food[3])
+print(food[2])
