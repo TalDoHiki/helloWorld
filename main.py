@@ -83,10 +83,32 @@ import time
 #for x in food:
 #    print(x, end=", ")
 
-drinks = ["coffe","soda","tea"]
-dinner = ["rice", "pizza"]
-dessert = ["cake","ice cream"]
+#drinks = ["coffe","soda","tea"]
+#dinner = ["rice", "pizza"]
+#dessert = ["cake","ice cream"]
+#food = [drinks,dinner,dessert]
+#print(food[2])
 
-food = [drinks,dinner,dessert]
+#def hello():
+#    print("aaaa!")
+#   print("bbbbb!")
+#hello()
 
-print(food[2])
+#def multiply(n1,n2):
+#    result = n1 * n2
+#    return result
+#x = multiply(6,8)
+#print(x)
+
+#def hello(first,middle,last):
+#    print("Hello, "+first+" "+middle+" "+last)
+#hello(last="ok",middle="am",first="I")
+
+#num = input("Enter a whole positive number: ")
+#num = float(num)
+#num = abs(num)
+#num = round(num)
+#print(num)
+
+#print(round(abs(float(input("Enter a whole positive number: ")))))
+
