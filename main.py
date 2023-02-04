@@ -14,8 +14,8 @@
 # print("But that's a shame, you're a minor, "+n)
 # }
 
-import math
-import time
+# import math
+# import time
 
 # n = input("What's the square of 4?: ")
 # if(int(n)==2):
@@ -27,14 +27,14 @@ import time
 # slice = slice(7,-4)
 # print(website[slice])
 
-# age = int(input("How much older are you?: "))
-# if age>=100:
-#   age = (age/100)
-#   print("You're ",str(age)," century(ies) old!")
-# elif age>=18:
-#    print("You're an adult!")
-# else:
-#    print("You're a child!")
+ age = int(input("How much older are you?: "))
+ if age>=100:
+   age = (age/100)
+   print("You're ",str(age)," century(ies) old!")
+ elif age>=18:
+    print("You're an adult!")
+ else:
+    print("You're a child!")
 
 # name = None
 # while not name:
